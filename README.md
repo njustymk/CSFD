@@ -1,2 +1,2 @@
 # Weakly Aligned Cross-spectral Face Detection
-![image](Image/)
+![image](Image/Framework.jpg)
